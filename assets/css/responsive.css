@@ -1,0 +1,46 @@
+@media (max-width: 1199px){
+  .block-serv .icon-serv{width: 120px;height: 120px;font-size: 57px;}
+  .mess-person p{width: 75%}
+}
+@media (max-width: 991px){
+  .navbar-default .navbar-nav>li>a{font-size: 12px;padding: 5px 5px}
+  .block-serv .icon-serv {width: 142px;height: 142px;font-size: 66px;}
+  .block-serv .label-serv{font-size: 12px}
+  .mess-person p{width: 95%}
+  .continue-read, .date-post{font-size:12px;}
+  .hovereffect .info{padding: 60px;}
+  .hovereffect .hover-pluss{line-height: 10px;}
+}
+@media (max-width: 767px){
+  .navbar-nav{padding-left: 10px}
+  .navbar-default .navbar-nav>li>.active{border-right:none;border-left: none}
+  .navbar-default .active:before{border-top: none;border-bottom: none}
+  .navbar-default .active:after{border-top: none;border-bottom: none}
+  .flixed-nav .navbar-nav>li>.active{border-right:none;border-left: none}
+  .flixed-nav .active:before{border-top: none;border-bottom: none}
+  .flixed-nav .active:after{border-top: none;border-bottom: none}
+  .navbar-default .navbar-collapse{background: #e7e7e77a}
+  .services-blocks{padding-top: 30px;width: 465px;margin: auto;}
+  .block-serv{float: left;max-width: 145px}
+  .block-serv .icon-serv{width: 115px;height: 115px;font-size: 54px;}
+  .post-news{max-width: 60%;margin:auto;margin-top:50px;}
+  .post-news:first-child{margin-top:0px;}
+  .copy-right{font-size: 12px;text-align: center}
+  .social-icons ul li a{margin-right: 5px}
+  .social-icons{text-align: center;margin-top: 20px}
+  .continue-read, .date-post{font-size:14px;}
+  .hovereffect .hover-pluss{line-height:2;}
+}
+@media (max-width: 481px){
+  .services-blocks{padding-top: 30px;width: 326px;margin: auto;}
+  .content-header h2{font-size: 22px}
+  .content-header h1{font-size: 25px}
+  .btn{margin-right: 0px;margin: 20px auto}
+  .filter-button{padding: 0px 0px 0px 10px}
+  .post-news{max-width: 100%}
+}
+@media (max-width: 342px){
+  .block-serv{max-width: 100%;}
+  .services-blocks{padding-top: 30px;width: 260px;margin: auto;}
+  .block-serv .icon-serv {width: 200px;height: 200px;font-size: 95px;}
+}
